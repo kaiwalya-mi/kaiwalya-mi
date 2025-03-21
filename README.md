@@ -23,7 +23,7 @@ Software engineer and machine learning practitioner passionate about building in
 
 ## 🌟 Featured Projects
 
-### Recruit Buddy
+### Recruit Buddy    https://github.com/kaiwalya-mi/RecruitBuddy-App
 <img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20NLP%20%7C%20FastAPI-blue?style=for-the-badge" />
 
 An intelligent candidate matching system that uses natural language processing to match job descriptions with candidate resumes. 
@@ -34,7 +34,7 @@ An intelligent candidate matching system that uses natural language processing t
 
 <br clear="right"/>
 
-### MCP Perceptron
+### MCP Perceptron   https://github.com/kaiwalya-mi/MCP-Perceptron-Diffusion-model
 <img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-PyTorch%20%7C%20Docker%20%7C%20FastAPI-red?style=for-the-badge" />
 
 A cutting-edge neural network architecture  for enhanced learning and adaptation.
@@ -45,7 +45,7 @@ A cutting-edge neural network architecture  for enhanced learning and adaptation
 
 <br clear="right"/>
 
-### Multimodal PDF Analyzer
+### Multimodal PDF Analyzer    https://github.com/kaiwalya-mi/Multimodal-Agentic-AI-PDF-OCR-Contract-Analyzer
 <img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-LangChain%20%7C%20OCR%20%7C%20React-green?style=for-the-badge" />
 
 An advanced document analysis tool that combines computer vision and NLP to extract insights from complex PDF documents.
