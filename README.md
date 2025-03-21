@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Kaiwalya</div>
+# <div align="center">👋 Hi, I'm Kaiwalya a computer science student </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&repeat=false&width=600&lines=Machine+Learning+Engineer+%26+Software+Developer" alt="Typing SVG" />
