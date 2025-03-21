@@ -16,7 +16,7 @@
 Software engineer and machine learning practitioner passionate about building intelligent systems that solve real-world problems. I blend strong technical foundations with creative problem-solving to develop innovative AI solutions. Consistently pushing the boundaries of what's possible by leveraging cutting-edge technologies.
 
 - 🔭 Currently working on advanced multimodal AI systems
-- 🌱 Exploring the intersection of large language models and computer vision
+- 🌱 Exploring the intersection of large language models and problem solving
 - 💡 Turning complex data challenges into elegant solutions
 - 🏆 Hackathon participant and winner
 - 📚 Lifelong learner committed to mastering new technologies
@@ -30,18 +30,18 @@ An intelligent candidate matching system that uses natural language processing t
 
 - **Core features**: Semantic matching, skill extraction, automated ranking
 - **Results**: Reduced hiring time by 45%, improved candidate quality by 30%
-- **Architecture**: Microservices design with Python backend and React frontend
+- **Architecture**: Microservices design with Rust backend and Typescript frontend
 
 <br clear="right"/>
 
 ### MCP Perceptron
 <img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-PyTorch%20%7C%20Docker%20%7C%20FastAPI-red?style=for-the-badge" />
 
-A cutting-edge neural network architecture that implements Model Context Protocol (MCP) for enhanced learning and adaptation.
+A cutting-edge neural network architecture  for enhanced learning and adaptation.
 
 - **Innovation**: Custom architecture that dynamically adjusts to context
 - **Performance**: 28% faster convergence than traditional models
-- **Applications**: Computer vision, NLP, and multimodal learning
+- **Applications**: Computer vision, NLP, and multimodal learning,Diffusion model
 
 <br clear="right"/>
 
