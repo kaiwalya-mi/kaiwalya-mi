@@ -1,132 +1,101 @@
-# <div align="center">👋 Hi, I'm Kaiwalya , Analytics and Data Science Student  </div>
+# <div align="center">👋 Hi, I'm Kaiwalya — Data Engineering & Analytics</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&repeat=false&width=600&lines=Machine+Learning+Engineer+%26+Data+Science+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&repeat=false&width=900&lines=Data+Engineering+Intern+|+Streaming+%2B+Lakehouse+|+Analytics+that+Ship" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python" alt="Python Expert">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=flat-square&logo=tensorflow" alt="Machine Learning Advanced">
-  <img src="https://img.shields.io/badge/AI%20Tools-Innovator-00AEFF?style=flat-square&logo=openai" alt="AI Tools Innovator">
-  <img src="https://img.shields.io/badge/Hackathons-Enthusiast-6236FF?style=flat-square&logo=hackclub" alt="Hackathon Enthusiast">
-</div>
-
-## 🚀 About Me
-
-Data science professional and analytics enthusiast passionate about transforming complex data into actionable insights that drive real-world impact. I combine strong technical skills with business acumen to design data-driven solutions, uncover trends, and support strategic decision-making. Always exploring the boundaries of what’s possible by applying advanced analytics, machine learning, and visualization tools to solve meaningful business problems.
-- 🔭 Currently working on advanced multimodal AI systems
-- 🌱 Exploring the intersection of large language models and problem solving
-- 💡 Turning complex data challenges into elegant solutions
-- 🏆 Hackathon participant and winner
-- 📚 Lifelong learner committed to mastering new technologies
-
-## 🌟 Featured Projects
-
-### Recruit Buddy    https://github.com/kaiwalya-mi/RecruitBuddy-App
-<img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20NLP%20%7C%20FastAPI-blue?style=for-the-badge" />
-
-An intelligent candidate matching system that uses natural language processing to match job descriptions with candidate resumes. 
-
-- **Core features**: Semantic matching, skill extraction, automated ranking
-- **Results**: Reduced hiring time by 45%, improved candidate quality by 30%
-- **Architecture**: Microservices design with Rust backend and Typescript frontend
-
-<br clear="right"/>
-
-### MCP Perceptron   https://github.com/kaiwalya-mi/MCP-Perceptron-Diffusion-model
-<img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-PyTorch%20%7C%20Docker%20%7C%20FastAPI-red?style=for-the-badge" />
-
-A cutting-edge neural network architecture  for enhanced learning and adaptation.
-
-- **Innovation**: Custom architecture that dynamically adjusts to context
-- **Performance**: 28% faster convergence than traditional models
-- **Applications**: Computer vision, NLP, and multimodal learning,Diffusion model
-
-<br clear="right"/>
-
-### Multimodal PDF Analyzer    https://github.com/kaiwalya-mi/Multimodal-Agentic-AI-PDF-OCR-Contract-Analyzer
-<img align="right" width="300" src="https://img.shields.io/badge/Tech%20Stack-LangChain%20%7C%20OCR%20%7C%20React-green?style=for-the-badge" />
-
-An advanced document analysis tool that combines computer vision and NLP to extract insights from complex PDF documents.
-
-- **Capabilities**: Table extraction, chart analysis, semantic search
-- **Processing**: Can handle 200+ page documents with complex layouts
-- **Integration**: API-first design for seamless integration with existing systems
-
-<br clear="right"/>
-
-## 💻 Technical Skills
-
-<div align="center">
-
-|Category|Skills|
-|--------|------|
-|**Languages**|Python, JavaScript, TypeScript, SQL, C++|
-|**Machine Learning**|PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain|
-|**Cloud & DevOps**|AWS, Docker, Kubernetes, CI/CD, MLOps|
-|**Web Development**|React, FastAPI, Django, Node.js, REST APIs|
-|**Data Engineering**|Pandas, NumPy, Apache Spark, Airflow, ETL pipelines|
-|**Tools & Others**|Git, Jira, Figma, Agile methodologies, System design|
-
-</div>
-
-## 🏆 Hackathon Experience
-
-Passionate hackathon participant with experience developing innovative solutions under pressure. Notable achievements include:
-
-- 🥇 **First Place** at Regional AI Hackathon - Created a real-time sign language interpreter
-- 🥈 **Second Place** at Cloud Innovation Challenge - Built an intelligent resource allocation system
-- 🏅 **Best ML Implementation** at Healthcare Hackathon - Developed a medical image analysis tool
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiwalya-mi&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalya-mi&layout=compact&langs_count=8&theme=react" />
-</div>
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-  
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/AI-Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=0366d6)
-
-</div>
-
-## 🔍 Exploring AI Frontiers
-
-Actively experimenting with cutting-edge AI technologies:
-
-- 🧠 **Large Language Models** - Fine-tuning and prompt engineering
-- 👁️ **Computer Vision** - Object detection and image segmentation
-- 🔄 **Multimodal Learning** - Text, image, and audio integration
-- 🤖 **AI Agents** - Developing autonomous systems with reasoning capabilities
-- 🛠️ **AI Development Tools** - Leveraging and contributing to modern AI tooling
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaiwalya-mi)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kaiwalya_mi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react)](https://kaiwalya.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@kaiwalya.dev)
-
+  <!-- Core Data Engineering -->
+  <img src="https://img.shields.io/badge/Python-SQL-PySpark-0366d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spark-Kafka-Delta_Lake-0366d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Databricks-DBT-ADF-0366d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20Kinesis%20%7C%20Redshift-0366d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Snowflake-Parquet-Tableau%20%7C%20Power%20BI-0366d6?style=flat-square" />
+  <!-- Process / PM -->
+  <img src="https://img.shields.io/badge/Jira-Project%20Tracking-6c63ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Confluence-Docs-6c63ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/SharePoint-Hubs-6c63ff?style=flat-square" />
 </div>
 
 ---
 
+## Summary
+
+Data engineering–focused grad student building **trustworthy pipelines** and **analytics‑ready models** across batch/streaming. I work end‑to‑end—**ingestion → cleansing → modeling → quality → governance → BI**—so product, ops, and business teams can make decisions with confidence. My experience spans **Medallion Lakehouse** design, **Spark/Kafka** streaming, **dbt** analytics engineering, and **cost/latency** tuning, with pragmatic documentation and delivery habits (Jira, Confluence, SharePoint).
+
+**Target Roles:** Data Engineer / Analytics Engineer (Intern) · (Also open to Business Analyst / Product & Project Management internships)
+
+---
+
+## Impact Highlights (Data Engineering • ~70%)
+
+- **Lakehouse ingestion at scale (Databricks + PySpark Autoloader + DLT):** Landed **10K+ records/day** (Handshake) into Bronze with schema enforcement and automated quality checks. Modeled **50+** fact/dim tables in **dbt**, enriched with **LLM embeddings (~3 GB/day)**, and published **Power BI** for **100+ active users**, cutting manual matching by **~70%**.  
+- **Streaming analytics (Kafka + Spark Structured Streaming + Delta):** Unified **6+ sources** (GPS, payments, traffic) for a ride‑sharing use case; **partitioning/Z‑order** yielded **~2s** query latency; REST + BI endpoints served product/ops; **ETA accuracy improved ~30%**.  
+- **AWS pipeline (Kinesis → S3 → Redshift + QuickSight):** Ingested **3–5M** logistics events/day (~**100–150 GB/month**), built **20+ KPIs** and route/warehouse drill‑downs to speed decisions and expansion.  
+- **Healthcare RCM on Azure (ADF, ADLS Gen2, Databricks, Delta Lake):** Metadata‑driven pipelines landing **50+ tables (~10M rows/month)**; **PySpark** standardization and **SCD‑2** for a governed CDM; Gold models (encounters/transactions/providers) powering denials/AR/collections dashboards.  
+- **Analytics engineering with dbt + Snowflake/Spark:** Sources + lineage docs + **tests (unique/not‑null/relationships)**; incremental models increased data quality to **~95% valid rows** for BI.
+
+---
+
+## Business Analyst / Product & Project Management (~30%)
+
+- **From discovery to data contracts:** Translate stakeholder questions into **trackable KPIs/SLAs**, acceptance criteria, and **data contracts** tied to lineage.  
+- **Delivery practices:** Roadmaps, backlogs, standups; **RACI** and risk/issue logs; **Jira** workflows, **Confluence** specs, **SharePoint** hubs; crisp changelogs and runbooks.  
+- **Decision support:** BI storytelling in **Power BI/Tableau/QuickSight**; instrumentation, experimentation design, and ROI‑oriented readouts.
+
+---
+
+## Selected Projects
+
+- **Job‑Market Signals Lakehouse — Databricks + DLT + dbt + Power BI**  
+  Autoloader ingestion with expectations; **50+** models; embeddings enrichment; **100+** BI users; ~**70%** manual reduction.  
+- **Real‑Time Mobility Analytics — Kafka + Spark + Delta + REST + Power BI**  
+  Streamed **~2K rides/day (~5 GB)**, unified datasets, **~2s** query latency, **~30%** better ETAs.  
+- **Logistics Analytics on AWS — Kinesis → S3 → Redshift + QuickSight**  
+  **3–5M/day** events, **20+ KPIs**, operational drill‑downs.  
+- **Healthcare RCM Lakehouse — ADF + ADLS Gen2 + Databricks (PySpark) + SCD‑2**  
+  **50+ tables (~10M rows/month)**, governed CDM, BI for denials/AR/collections.  
+- **Netflix Warehouse (dbt + Snowflake + Spark + Parquet)**  
+  Sources + docs + tests; incremental models → **~95%** valid rows.
+
+---
+
+## Skills
+
+**Languages:** Python, SQL, Scala, Java, C/C++, R, JavaScript/TypeScript, Bash  
+**Data & Platforms:** Apache Spark, Kafka, Delta Lake, Databricks, **Azure (ADF, ADLS Gen2, Synapse)**, **AWS (S3, Kinesis, Redshift, QuickSight)**, Snowflake, Hadoop, Parquet/JSON/CSV  
+**Modeling & Quality:** Medallion (Bronze/Silver/Gold), star/snowflake schemas, **SCD‑2**, dbt (tests + docs), DLT expectations, schema enforcement, CDC/incremental ELT, data contracts, lineage, PII tagging  
+**Orchestration & Ops:** Scheduling/alerts, backfills, retries, idempotent jobs, SLAs/SLOs, monitoring/cost controls, Git/GitHub, Jenkins, CI/CD, Docker, Kubernetes  
+**BI & Storytelling:** Power BI, Tableau, QuickSight; semantic models, KPI design, dashboard UX  
+**BA/PM Tools:** **Jira**, **Confluence**, **SharePoint**, roadmaps, PRDs, RACI, stakeholder communication
+
+---
+
+## Education
+
+**M.S., Business Analytics (Information Management)** — California State University, East Bay  
+**B.Tech., Computer Science & Engineering** — Jaypee University of Engineering & Technology
+
+---
+
+## Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaiwalya-mi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kaiwalya-mi)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kmishra6@horizon.csueastbay.edu)
+
+---
+
+<details>
+  <summary><strong>ATS‑Friendly Keywords</strong></summary>
+
+**Data Engineering:** ETL/ELT, CDC, streaming, Kafka, Spark Structured Streaming, Delta Lake, Databricks, ADF/ADLS Gen2, Synapse, AWS S3/Kinesis/Redshift, Snowflake, dbt tests, DLT expectations, schema enforcement, partitioning/Z‑order, SCD‑2, Medallion Lakehouse, star/snowflake schema, Parquet, data contracts, lineage, cataloging, PII tagging, auditing, SLAs/SLOs, REST APIs  
+**BA/PM:** KPIs/OKRs, PRDs, roadmaps, backlogs, sprints, RACI, risk/issue logs, stakeholder discovery, **Jira**, **Confluence**, **SharePoint**, BI storytelling
+</details>
+
+---
+
 <div align="center">
-  <i>Always exploring the possibilities at the intersection of software engineering and artificial intelligence.</i>
-</div> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaiwalya-mi&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalya-mi&layout=compact&langs_count=8&theme=react" />
+</div>
