@@ -72,7 +72,9 @@ Data engineering–focused grad student building **trustworthy pipelines** and *
 
 ## Education
 
-**M.S., Business Analytics (Information Management)** — California State University, East Bay  
+**M.S., Business Analytics (Information Management)** — California State University, East Bay 
+**M.S., Computer Science ** — University of Florida, Gainesville
+
 **B.Tech., Computer Science & Engineering** — Jaypee University of Engineering & Technology
 
 ---
@@ -86,7 +88,7 @@ Data engineering–focused grad student building **trustworthy pipelines** and *
 ---
 
 <details>
-  <summary><strong>ATS‑Friendly Keywords</strong></summary>
+  <summary><strong>Core Technical Skills</strong></summary>
 
 **Data Engineering:** ETL/ELT, CDC, streaming, Kafka, Spark Structured Streaming, Delta Lake, Databricks, ADF/ADLS Gen2, Synapse, AWS S3/Kinesis/Redshift, Snowflake, dbt tests, DLT expectations, schema enforcement, partitioning/Z‑order, SCD‑2, Medallion Lakehouse, star/snowflake schema, Parquet, data contracts, lineage, cataloging, PII tagging, auditing, SLAs/SLOs, REST APIs  
 **BA/PM:** KPIs/OKRs, PRDs, roadmaps, backlogs, sprints, RACI, risk/issue logs, stakeholder discovery, **Jira**, **Confluence**, **SharePoint**, BI storytelling
