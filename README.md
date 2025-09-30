@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Kaiwalya — Data Engineering & Analytics</div>
+# <div align="center">👋 Hi, I'm Kaiwalya — Business Analytics Grad Student</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&repeat=false&width=900&lines=Data+Engineering+Intern+|+Streaming+%2B+Lakehouse+|+Analytics+that+Ship" alt="Typing SVG" />
