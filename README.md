@@ -23,11 +23,10 @@
 
 Data engineering–focused grad student building **trustworthy pipelines** and **analytics‑ready models** across batch/streaming. I work end‑to‑end—**ingestion → cleansing → modeling → quality → governance → BI**—so product, ops, and business teams can make decisions with confidence. My experience spans **Medallion Lakehouse** design, **Spark/Kafka** streaming, **dbt** analytics engineering, and **cost/latency** tuning, with pragmatic documentation and delivery habits (Jira, Confluence, SharePoint).
 
-**Target Roles:** Data Engineer / Analytics Engineer (Intern) · (Also open to Business Analyst / Product & Project Management internships)
 
 ---
 
-## Impact Highlights (Data Engineering • ~70%)
+## Impact Highlights (Data Engineering )
 
 - **Lakehouse ingestion at scale (Databricks + PySpark Autoloader + DLT):** Landed **10K+ records/day** (Handshake) into Bronze with schema enforcement and automated quality checks. Modeled **50+** fact/dim tables in **dbt**, enriched with **LLM embeddings (~3 GB/day)**, and published **Power BI** for **100+ active users**, cutting manual matching by **~70%**.  
 - **Streaming analytics (Kafka + Spark Structured Streaming + Delta):** Unified **6+ sources** (GPS, payments, traffic) for a ride‑sharing use case; **partitioning/Z‑order** yielded **~2s** query latency; REST + BI endpoints served product/ops; **ETA accuracy improved ~30%**.  
@@ -37,7 +36,7 @@ Data engineering–focused grad student building **trustworthy pipelines** and *
 
 ---
 
-## Business Analyst / Product & Project Management (~30%)
+## Business Analyst / Product & Project Management 
 
 - **From discovery to data contracts:** Translate stakeholder questions into **trackable KPIs/SLAs**, acceptance criteria, and **data contracts** tied to lineage.  
 - **Delivery practices:** Roadmaps, backlogs, standups; **RACI** and risk/issue logs; **Jira** workflows, **Confluence** specs, **SharePoint** hubs; crisp changelogs and runbooks.  
