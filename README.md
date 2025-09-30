@@ -73,6 +73,7 @@ Data engineering–focused grad student building **trustworthy pipelines** and *
 ## Education
 
 **M.S., Business Analytics (Information Management)** — California State University, East Bay 
+
 **M.S., Computer Science ** — University of Florida, Gainesville
 
 **B.Tech., Computer Science & Engineering** — Jaypee University of Engineering & Technology
