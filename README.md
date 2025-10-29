@@ -21,7 +21,7 @@
 
 ## Summary
 
-Data engineering–focused grad student  Fcoused on Business Intelligence Systems and building **trustworthy pipelines** and **analytics‑ready models** across batch/streaming. I work end‑to‑end—**ingestion → cleansing → modeling → quality → governance → BI**—so product, ops, and business teams can make decisions with confidence. My experience spans **Medallion Lakehouse** design, **Spark/Kafka** streaming, **dbt** analytics engineering, and **cost/latency** tuning, with pragmatic documentation and delivery habits (Jira, Confluence, SharePoint).
+Data engineering–focused grad student  focused on Business Intelligence Systems and building **trustworthy pipelines** and **analytics‑ready models** across batch/streaming. I work end‑to‑end—**ingestion → cleansing → modeling → quality → governance → BI**—so product, ops, and business teams can make decisions with confidence. My experience spans **Medallion Lakehouse** design, **Spark/Kafka** streaming, **dbt** analytics engineering, and **cost/latency** tuning, with pragmatic documentation and delivery habits (Jira, Confluence, SharePoint).
 
 
 ---
