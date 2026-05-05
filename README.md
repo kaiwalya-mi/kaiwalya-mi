@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kaiwalya
+# 👋 Hi, I’m Kaiwalya, Data Science Enthusiast , working on intersection of Agentic AI Financial systems and Data science.
 
 **Analytics Graduate Student at California State University, East Bay**  
 Background in **Computer Science, Artificial Intelligence, and Machine Learning**  
@@ -26,8 +26,11 @@ I work hands-on with **classical and modern data science algorithms**, from expl
   - Bias–variance tradeoff analysis
 - **Statistical Analysis**
   - Hypothesis testing
+  - A/B testing
   - Exploratory Data Analysis (EDA)
-  - Time-series basics
+  - Time-series
+  - Gurobi optimization.
+  - Multi varibale optimization.
 
 ---
 
