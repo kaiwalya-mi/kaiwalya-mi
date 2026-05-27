@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kaiwalya, Data Science Enthusiast , working on intersection of Agentic AI Financial systems and Data science.
+# 👋 Hi, I’m Kaiwalya, Data Science and Big data Enthusiast , working on intersection of Agentic AI  and Data science.
 
 **Analytics Graduate Student at California State University, East Bay**  
 Background in **Computer Science, Artificial Intelligence, and Machine Learning**  
