@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Kaiwalya, Data Science Enthusiast , working on intersection of Agentic AI  and analytics.
+# 👋 Hi, I’m Kaiwalya, DE Pipelines & MLops
 
 **Analytics Graduate Student at California State University, East Bay**  
 Background in **Computer Science, Artificial Intelligence, and Machine Learning**  
-Interested in **Data Science, Agentic AI systems, LLM-powered analytics, and Business Intelligence** 
+Interested in ** Data engineering(Product Analytics) Data Science, Agentic AI systems, LLM-powered analytics, and Business Intelligence** 
 
 I enjoy turning **data into insights** using **statistical learning, machine learning algorithms, and visual storytelling**. My work focuses on applying **data science models** to real-world business problems and delivering results through **clear dashboards and decision-ready analytics**.
 
